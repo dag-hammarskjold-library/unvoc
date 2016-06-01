@@ -21,12 +21,21 @@ unvoc: a owl:Ontology ;
   
 unvoc:Organization a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
+  
+unvoc:MemberState a rdfs:Class , owl:Class ;
+  rdfs:subClassOf unvoc:Organization .
 
 unvoc:Person a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
 
 unvoc:Place a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
+  
+unvoc:GeographicTerm a rdfs:Class , owl:Class ;
+  rdfs:subClassOf unvoc:Place .
+  
+unvoc:PlaceName a rdfs:Class , owl:Class ;
+  rdfs:subClassOf unvoc:Place .
 
 unvoc:Role a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
