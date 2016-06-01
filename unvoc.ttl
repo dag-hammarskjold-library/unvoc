@@ -1,0 +1,28 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xl: <http://www.w3.org/2008/05/skos-xl#> .
+# FRBR?
+
+# Ontology
+
+unvoc: a owl:Ontology ;
+  dct:title "UN Semantic Ontology"@en ;
+  dct:description "An ontology for semantic description of various UN resources."@en ;
+  
+# OWL Classes
+
+#this is probably unnecessary
+unvoc:Concept a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
+  
+unvoc:Organization a rdfs:Class , owl:Class .
+
+unvoc:Person a rdfs:Class , owl:Class .
+
+unvoc:Place a rdfs:Class , owl:Class .
+
+unvoc:Role a rdfs:Class , owl:Class .
