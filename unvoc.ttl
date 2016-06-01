@@ -16,13 +16,23 @@ unvoc: a owl:Ontology ;
 # OWL Classes
 
 #this is probably unnecessary
-unvoc:Concept a rdfs:Class , owl:Class ;
-  rdfs:subClassOf skos:Concept .
+#unvoc:Concept a rdfs:Class , owl:Class ;
+#  rdfs:subClassOf skos:Concept .
   
-unvoc:Organization a rdfs:Class , owl:Class .
+unvoc:Organization a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
 
-unvoc:Person a rdfs:Class , owl:Class .
+unvoc:Person a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
 
-unvoc:Place a rdfs:Class , owl:Class .
+unvoc:Place a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
 
-unvoc:Role a rdfs:Class , owl:Class .
+unvoc:Role a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
+
+# Properties
+
+# DatatypeProperties
+
+# ObjectProperties
