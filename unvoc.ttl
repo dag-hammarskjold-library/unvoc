@@ -39,6 +39,8 @@ unvoc:PlaceName a rdfs:Class , owl:Class ;
 
 unvoc:Role a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
+  
+# Additional classes and properties will be needed to provide more detail for the above superclasses.
 
 # Properties
 
