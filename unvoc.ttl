@@ -5,7 +5,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xl: <http://www.w3.org/2008/05/skos-xl#> .
-# FRBR?
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix unvoc: <http://voc.un.org/schema#> .
 
 # Ontology
 
@@ -15,33 +17,26 @@ unvoc: a owl:Ontology ;
   
 # OWL Classes
 
-#this is probably unnecessary
-#unvoc:Concept a rdfs:Class , owl:Class ;
-#  rdfs:subClassOf skos:Concept .
-  
-unvoc:Organization a rdfs:Class , owl:Class ;
-  rdfs:subClassOf skos:Concept .
-  
 unvoc:MemberState a rdfs:Class , owl:Class ;
-  rdfs:subClassOf unvoc:Organization .
+  rdfs:subClassOf foaf:Agent .
 
-unvoc:Person a rdfs:Class , owl:Class ;
-  rdfs:subClassOf skos:Concept .
+# deprecated as unnecessary; use org:Organization instead
+#unvoc:Organization 
 
-unvoc:Place a rdfs:Class , owl:Class ;
-  rdfs:subClassOf skos:Concept .
-  
+# deprecated as unnecessary; use foaf:Person instead
+#unvoc:Person 
+
+# This differentiates geographic terms from general subject terms, although a term may be of both classes
 unvoc:GeographicTerm a rdfs:Class , owl:Class ;
-  rdfs:subClassOf unvoc:Place .
-  
-unvoc:PlaceName a rdfs:Class , owl:Class ;
-  rdfs:subClassOf unvoc:Place .
-
-unvoc:Role a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
-  
-# Additional classes and properties will be needed to provide more detail for the above superclasses.
 
+# This differentiates place names from general subject terms, although a term may be of both classes  
+unvoc:PlaceName a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
+
+# deprecated as unnecessary; use, e.g., org:Role instead
+#unvoc:Role 
+  
 # Properties
 
 # DatatypeProperties
