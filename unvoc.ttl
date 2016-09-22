@@ -36,6 +36,8 @@ unvoc:PlaceName a rdfs:Class , owl:Class ;
 
 # deprecated as unnecessary; use, e.g., org:Role instead
 #unvoc:Role 
+
+# Others: use foaf:Document for document objects; use 
   
 # Properties
 
