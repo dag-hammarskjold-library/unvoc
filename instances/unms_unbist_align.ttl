@@ -1,0 +1,767 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/00cd632bd5edb0c185256aa0005fe977> owl:sameAs <http://voc.un.org/unms#496_MNG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0147e53597d2159c85256aa0005feae3> owl:sameAs <http://voc.un.org/unms#634_QAT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0403acb12ba763e085256aa0006017c9> owl:sameAs <http://voc.un.org/unms#268_GEO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/052f900699300ba985256aa0005fe6e0> owl:sameAs <http://voc.un.org/unms#262_DJI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/078dfa8856c369df85256aa0005fea79> owl:sameAs <http://voc.un.org/unms#756_CHE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/090fc1f08be361ee85256aa0005fe9b5> owl:sameAs <http://voc.un.org/unms#008_ALB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0913b258e596622385256aa0005fe6ca> owl:sameAs <http://voc.un.org/unms#140_CAF> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0b625343d4ce441485256aa0005fe78a> owl:sameAs <http://voc.un.org/unms#686_SEN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0c078a280b6904fb85256aa0005fe7bc> owl:sameAs <http://voc.un.org/unms#768_TGO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0e355ef97b821fb785256aa0005fe83e> owl:sameAs <http://voc.un.org/unms#152_CHL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0e4232594c7e56aa85256aa0005fe843> owl:sameAs <http://voc.un.org/unms#170_COL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/12ae9744b2ce8c2f85256aa0005fe69e> owl:sameAs <http://voc.un.org/unms#024_AGO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/144dcc22bddf924885256aa0005fea59> owl:sameAs <http://voc.un.org/unms#620_PRT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/15d0ec6036773dcd85256aa000601758> owl:sameAs <http://voc.un.org/unms#051_ARM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/17eb25ec6633ef2085256aa0005fe729> owl:sameAs <http://voc.un.org/unms#384_CIV> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/190655c37d8dd5f985256aa0005fe9f5> owl:sameAs <http://voc.un.org/unms#250_FRA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/198cbc03644bc2eb85256aa0005fe819> owl:sameAs <http://voc.un.org/unms#076_BRA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1a10cb00fe73475a85256aa0005fe70e> owl:sameAs <http://voc.un.org/unms#266_GAB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1ad38f0fb9a500e185256aa0005fe738> owl:sameAs <http://voc.un.org/unms#430_LBR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1afe8d9d3850398085256aa0005fe861> owl:sameAs <http://voc.un.org/unms#222_SLV> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1c120e8a098ee4ec85256aa0005fe9c4> owl:sameAs <http://voc.un.org/unms#056_BEL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1c3993f19750bb5f85256aa0005fe769> owl:sameAs <http://voc.un.org/unms#516_NAM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1d9ef635abef2d0985256aa000601744> owl:sameAs <http://voc.un.org/unms#860_UZB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1e2c1cce9b2b8f6e85256aa000601aa6> owl:sameAs <http://voc.un.org/unms#807_MKD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1f1b31a1a14fe75085256aa0005fe909> owl:sameAs <http://voc.un.org/unms#004_AFG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1f8288b1b0c911d485256aa000601396> owl:sameAs <http://voc.un.org/unms#804_UKR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/20565b722f778a7b85256aa000601738> owl:sameAs <http://voc.un.org/unms#795_TKM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2126a505e4d3ce4d85256aa0005fea7e> owl:sameAs <http://voc.un.org/unms#792_TUR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/23a96c213ae9a3ad85256aa0005fe806> owl:sameAs <http://voc.un.org/unms#052_BRB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/24ff43679871432585256aa0006017cf> owl:sameAs <http://voc.un.org/unms#705_SVN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/257218ebf0e2085185256aa0005fe6b1> owl:sameAs <http://voc.un.org/unms#108_BDI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/27d0272c07fb5bdc85256aa0005fe84d> owl:sameAs <http://voc.un.org/unms#192_CUB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/282e00229ee0f6c485256aa00060170d> owl:sameAs <http://voc.un.org/unms#762_TJK> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/28b40aaea8a4592a85256aa0005fe6a7> owl:sameAs <http://voc.un.org/unms#204_BEN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2bb17c252a5d7a9385256aa0005fe8c7> owl:sameAs <http://voc.un.org/unms#604_PER> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2ca5982fdf05ad9485256aa0005fe981> owl:sameAs <http://voc.un.org/unms#586_PAK> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2daee2fc6940096a85256aa0005fe8b8> owl:sameAs <http://voc.un.org/unms#591_PAN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2dd1e6a76f3c476b85256aa0005fe7c1> owl:sameAs <http://voc.un.org/unms#788_TUN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2edf8e1cdad3480f85256aa0005fe914> owl:sameAs <http://voc.un.org/unms#050_BGD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/31480d048ec26e4a85256aa000600e2b> owl:sameAs <http://voc.un.org/unms#104_MMR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/31d5e0c8542fa37d85256aa0005fe990> owl:sameAs <http://voc.un.org/unms#702_SGP> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/32bb87d3be8f55eb85256aa0005fe9ab> owl:sameAs <http://voc.un.org/unms#764_THA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/330eb1a808cb6d2385256aa0005fe985> owl:sameAs <http://voc.un.org/unms#608_PHL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/34d39dad6e6c67f485256aa0005fe7e7> owl:sameAs <http://voc.un.org/unms#894_ZMB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/374a13a822bd346785256aa00060160c> owl:sameAs <http://voc.un.org/unms#031_AZE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3774f61a9ba7f9c285256aa0005fe885> owl:sameAs <http://voc.un.org/unms#340_HND> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/38ed0a71c9a0bbd085256aa0005fe9c9> owl:sameAs <http://voc.un.org/unms#100_BGR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3a6bb61945c5a12685256aa0005fe871> owl:sameAs <http://voc.un.org/unms#308_GRD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3b665f2e0b704fe985256aa000600f47> owl:sameAs <http://voc.un.org/unms#276_DEU> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3cb7e79faa89596185256aa0005feb27> owl:sameAs <http://voc.un.org/unms#242_FJI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3e48e708051d2d5185256aa0005fe79a> owl:sameAs <http://voc.un.org/unms#706_SOM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/41bd2960e751e14f85256aa0005fe959> owl:sameAs <http://voc.un.org/unms#364_IRN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/43a0da1369565c5785256aa0005fe71e> owl:sameAs <http://voc.un.org/unms#324_GIN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/44c3f7b2160f012f85256aa0005fea9a> owl:sameAs <http://voc.un.org/unms#048_BHR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/45f0f27b7bf1768685256aa0005feb75> owl:sameAs <http://voc.un.org/unms#882_WSM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/45f95f984044b76985256aa0005fe75e> owl:sameAs <http://voc.un.org/unms#504_MAR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/46a7b1b0bd3e75db85256aa0005fe719> owl:sameAs <http://voc.un.org/unms#288_GHA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/46c6779d6a70598585256aa0005fe8ad> owl:sameAs <http://voc.un.org/unms#558_NIC> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4930c3c972e127598525718f004bb13c> owl:sameAs <http://voc.un.org/unms#688_SRB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4b3806bf6387562285256aa0006017c2> owl:sameAs <http://voc.un.org/unms#191_HRV> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4c055b0f5de9e24985256aa0005fe759> owl:sameAs <http://voc.un.org/unms#480_MUS> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4f7136b904d54e6f85256aa0005fea74> owl:sameAs <http://voc.un.org/unms#752_SWE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4fdbbec7e286867e85256aa0005feb13> owl:sameAs <http://voc.un.org/unms#036_AUS> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/51bdb638dc9d493a85256aa0005fe6fc> owl:sameAs <http://voc.un.org/unms#226_GNQ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/52b28b841067db0e85256aa0005fe9a6> owl:sameAs <http://voc.un.org/unms#144_LKA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/53753038ba2ba6e685256aa0005fe8ee> owl:sameAs <http://voc.un.org/unms#780_TTO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/537bdcc45862058385256aa0005feb3a> owl:sameAs <http://voc.un.org/unms#584_MHL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/53a5020b4122e23c85256aa0005feaed> owl:sameAs <http://voc.un.org/unms#760_SYR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/541d249e0550bdeb85256aa0005fea37> owl:sameAs <http://voc.un.org/unms#438_LIE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5651e1a1b6460da885256aa0005fe98a> owl:sameAs <http://voc.un.org/unms#410_KOR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/57337145bca12ed685256aa0005feb35> owl:sameAs <http://voc.un.org/unms#296_KIR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5823d4ad1a48acc885256aa0005fe87b> owl:sameAs <http://voc.un.org/unms#328_GUY> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5856b3b1db71997185256aa0006017b5> owl:sameAs <http://voc.un.org/unms#070_BIH> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5aa958f9cc7ce41685256aa0006012f2> owl:sameAs <http://voc.un.org/unms#440_LTU> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5ba424117d139fda85256aa0005fe733> owl:sameAs <http://voc.un.org/unms#426_LSO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5ca3ef92ec5e85b185257184005ae1cb> owl:sameAs <http://voc.un.org/unms#499_MNE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5eac172255c2e4e085256aa0005fe9db> owl:sameAs <http://voc.un.org/unms#208_DNK> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/6118ccc11a6ceda185256aa0005fe7f6> owl:sameAs <http://voc.un.org/unms#028_ATG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/62b17c81ec68c8b385256aa0005fea12> owl:sameAs <http://voc.un.org/unms#300_GRC> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/638110fa888187c285256aa0005fe763> owl:sameAs <http://voc.un.org/unms#508_MOZ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/66bfbe1d34531f3e85256aa0005fe7c6> owl:sameAs <http://voc.un.org/unms#800_UGA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/673aed4963e6667c85256aa0005fe6d0> owl:sameAs <http://voc.un.org/unms#148_TCD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/68b6004bffcfc48d85256aa0005fe895> owl:sameAs <http://voc.un.org/unms#484_MEX> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/6f396963d188110e85256aa0005fe6ac> owl:sameAs <http://voc.un.org/unms#072_BWA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/76183debf0517dd785256aa0005fe88a> owl:sameAs <http://voc.un.org/unms#388_JAM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/78988f25efdd271085256aa0005fe919> owl:sameAs <http://voc.un.org/unms#064_BTN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/78bb133c5d34716685256aa0005fe962> owl:sameAs <http://voc.un.org/unms#418_LAO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/78f54c15fd04fba685256aa0005fe6bd> owl:sameAs <http://voc.un.org/unms#132_CPV> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/79886c1b08dd401285256aa0005fe92d> owl:sameAs <http://voc.un.org/unms#116_KHM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/79e19638c22e076985256aa0005fe6b7> owl:sameAs <http://voc.un.org/unms#120_CMR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/7b16c8ae5eb3922785256aa0005fea4e> owl:sameAs <http://voc.un.org/unms#578_NOR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/7de08225ca9f5ef985256aa0005fea54> owl:sameAs <http://voc.un.org/unms#616_POL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/800622c4f31a546185256aa0005fe8e9> owl:sameAs <http://voc.un.org/unms#740_SUR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/80115f22f0b1e28385256aa0005feace> owl:sameAs <http://voc.un.org/unms#422_LBN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/82d54ed43cecf54285256aa0005fe794> owl:sameAs <http://voc.un.org/unms#694_SLE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8432e4995f2c964485256aa0005fef54> owl:sameAs <http://voc.un.org/unms#583_FSM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8626fa6feb76b3ba85256aa0005fe928> owl:sameAs <http://voc.un.org/unms#156_CHN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/878fc71dd901376585256aa0005fead9> owl:sameAs <http://voc.un.org/unms#512_OMN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/88a169e81a4d71a785257837004fc0d8> owl:sameAs <http://voc.un.org/unms#728_SSD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/88ba94f61d103d8d85256aa0005fe880> owl:sameAs <http://voc.un.org/unms#332_HTI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/892e32e6f582b4d385256aa0005fe8c2> owl:sameAs <http://voc.un.org/unms#600_PRY> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/893c5231c421b1f285256aa0005fe8df> owl:sameAs <http://voc.un.org/unms#662_LCA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8a5d048966e4fb0985256aa0005fe76e> owl:sameAs <http://voc.un.org/unms#562_NER> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8a6daffd4ad125f985256aa0005fe9f0> owl:sameAs <http://voc.un.org/unms#246_FIN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8c22906465d6e6c785256aa0005fe784> owl:sameAs <http://voc.un.org/unms#678_STP> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8d7423353128368f85256aa0006012e7> owl:sameAs <http://voc.un.org/unms#428_LVA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8f90e68bc8a270b785256aa0006016f4> owl:sameAs <http://voc.un.org/unms#498_MDA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/92077248b7a87fad85256aa0005fea40> owl:sameAs <http://voc.un.org/unms#470_MLT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/937b5043d2f6e46985256aa0005fe949> owl:sameAs <http://voc.un.org/unms#356_IND> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/956d15eeb685d9c185256aa0005fe96d> owl:sameAs <http://voc.un.org/unms#458_MYS> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/95ea662b588e2ef485256aa0005fe701> owl:sameAs <http://voc.un.org/unms#231_ETH> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/976059c55f93cf4585256aa0005fe749> owl:sameAs <http://voc.un.org/unms#454_MWI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9d468362da3551ac85256aa0005fea2b> owl:sameAs <http://voc.un.org/unms#376_ISR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9ddf5421c996da3a85256aa0005feb83> owl:sameAs <http://voc.un.org/unms#776_TON> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9ef47944e0d9c76c85256aa00060187f> owl:sameAs <http://voc.un.org/unms#232_ERI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9f0de15d476c7d2985256aa0005fe9bb> owl:sameAs <http://voc.un.org/unms#020_AND> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9fa68d80455bda7485256aa0005fe6d5> owl:sameAs <http://voc.un.org/unms#174_COM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9fa876cfc81cdf0b85256aa0006016a3> owl:sameAs <http://voc.un.org/unms#417_KGZ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/a12288f5ea1c019a85256aa0006017df> owl:sameAs <http://voc.un.org/unms#703_SVK> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/a18c3c530d89f29a85256aa00060124b> owl:sameAs <http://voc.un.org/unms#233_EST> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/a1c2c22e175ff2aa85256aa0005fe815> owl:sameAs <http://voc.un.org/unms#068_BOL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/aa6a85a664ca4d4a85256aa0005fe934> owl:sameAs <http://voc.un.org/unms#408_PRK> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ac1c69b26b46f51d85256aa0005feb66> owl:sameAs <http://voc.un.org/unms#585_PLW> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ac2e5a06e452273085256aa0005feb44> owl:sameAs <http://voc.un.org/unms#520_NRU> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ad0aead36ad7cf2d85256aa0005fea49> owl:sameAs <http://voc.un.org/unms#528_NLD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/aeb1bf40e7a57ff085256aa0005feb87> owl:sameAs <http://voc.un.org/unms#798_TUV> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/aef726bbf0eecc2f85256aa0005fe7b1> owl:sameAs <http://voc.un.org/unms#729_SDN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b4f5a7c65b63f8e785256aa0005fe6db> owl:sameAs <http://voc.un.org/unms#178_COG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b546da1e82f3c72285256aa00060002e> owl:sameAs <http://voc.un.org/unms#854_BFA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b6a246b40ac8926b85256aa0006011e1> owl:sameAs <http://voc.un.org/unms#112_BLR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b6bb6ebc74f7842f85256aa0005fe699> owl:sameAs <http://voc.un.org/unms#012_DZA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b78773e2d493319285256aa0005feb6b> owl:sameAs <http://voc.un.org/unms#598_PNG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b80eb18936fe36bd85256aa0005feaa8> owl:sameAs <http://voc.un.org/unms#368_IRQ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b8b29b3236d6327d85256aa0005fe876> owl:sameAs <http://voc.un.org/unms#320_GTM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b99f82018ee0b0ad85256aa0005fe852> owl:sameAs <http://voc.un.org/unms#212_DMA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/bddab5e259afde8085256aa0005feae8> owl:sameAs <http://voc.un.org/unms#682_SAU> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c10811f5db46c9fd85256aa0005fe954> owl:sameAs <http://voc.un.org/unms#360_IDN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c21e392b8e813a9a85256aa0005fe8e4> owl:sameAs <http://voc.un.org/unms#670_VCT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c360e074ed6665e685256aa0005fe848> owl:sameAs <http://voc.un.org/unms#188_CRI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c6735ca81fb4f91f85256aa000601697> owl:sameAs <http://voc.un.org/unms#398_KAZ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c6802597eb30323b85256aa0005fe85c> owl:sameAs <http://voc.un.org/unms#218_ECU> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c71453f83d9e86e785256aa0005ffa94> owl:sameAs <http://voc.un.org/unms#659_KNA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c8a28c9db99258c385256aa0005fe743> owl:sameAs <http://voc.un.org/unms#450_MDG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c99b400330203c7785256aa0005fea1d> owl:sameAs <http://voc.un.org/unms#348_HUN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cb7fdd731aa1d65385256aa0005fef5b> owl:sameAs <http://voc.un.org/unms#548_VUT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cb8c2511b2dca98785256aa0005feb4d> owl:sameAs <http://voc.un.org/unms#554_NZL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cb9f47fda9d4d09985256aa0005fe972> owl:sameAs <http://voc.un.org/unms#462_MDV> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cc3819a7c1be249785256aa0005fe7b7> owl:sameAs <http://voc.un.org/unms#748_SWZ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cc7536792b7f5d5485256aa0005fe77f> owl:sameAs <http://voc.un.org/unms#646_RWA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cc8192f84241aff985256aa0005fea67> owl:sameAs <http://voc.un.org/unms#724_ESP> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cd1ca627ba54068285256aa0005fe80a> owl:sameAs <http://voc.un.org/unms#084_BLZ> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cd2c0a82607eb8d185256aa0005fea21> owl:sameAs <http://voc.un.org/unms#352_ISL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cdc910039a2dd12485256aa0005feaf3> owl:sameAs <http://voc.un.org/unms#784_ARE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cf06f89fb0800dc785256aa0005fe6ef> owl:sameAs <http://voc.un.org/unms#818_EGY> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d01bbaaea02832e785256aa0005fe97c> owl:sameAs <http://voc.un.org/unms#524_NPL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d1d8475f214b54a785256aa0005fea3b> owl:sameAs <http://voc.un.org/unms#442_LUX> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d215e851b6b924e985256aa0005fe7e0> owl:sameAs <http://voc.un.org/unms#180_COD> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d4e0e1dbdbf1680e85256aa0005fea63> owl:sameAs <http://voc.un.org/unms#674_SMR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d608de3dda1f5ccf85256aa0006015b7> owl:sameAs <http://voc.un.org/unms#643_RUS> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d7b5195a382ff96e85256aa0005fea5e> owl:sameAs <http://voc.un.org/unms#642_ROU> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d949f5dabe962a5f85256aa0005fe7fb> owl:sameAs <http://voc.un.org/unms#032_ARG> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dbd8cc17fbae24c985256aa0005fea44> owl:sameAs <http://voc.un.org/unms#492_MCO> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dbf0f20648bd439685256aa0005fe753> owl:sameAs <http://voc.un.org/unms#478_MRT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dc2a98da8a5fcdea85256aa0005fe923> owl:sameAs <http://voc.un.org/unms#096_BRN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ddbcc38e50d9df7085256aa0005fe8ff> owl:sameAs <http://voc.un.org/unms#858_URY> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ddf0e74eee14b53385256aa0005fe7cc> owl:sameAs <http://voc.un.org/unms#834_TZA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ddf1a11a7f1a860f85256aa0005fe7a0> owl:sameAs <http://voc.un.org/unms#710_ZAF> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dfd17abda887f61985256aa0006017ea> owl:sameAs <http://voc.un.org/unms#203_CZE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e33c539b41ed278585256aa0005fe801> owl:sameAs <http://voc.un.org/unms#044_BHS> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e6cb011ce67b7d4b85256aa0005feafd> owl:sameAs <http://voc.un.org/unms#887_YEM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e82194681bfff2cf85256aa0005fea32> owl:sameAs <http://voc.un.org/unms#380_ITA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e931497767f1f24885256aa0005fe713> owl:sameAs <http://voc.un.org/unms#270_GMB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/eb9efd2f4bb3327c85256aa0005fe9cd> owl:sameAs <http://voc.un.org/unms#196_CYP> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ec7ca76f71b1267285256aa0005fe940> owl:sameAs <http://voc.un.org/unms#626_TLS> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ee3c2e9ddbe2be6a85256aa0005fea26> owl:sameAs <http://voc.un.org/unms#372_IRL> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ef3a9da799292fe485256aa0005fe73e> owl:sameAs <http://voc.un.org/unms#434_LBY> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f0b4f2f2500bd0d185256aa0005feb7a> owl:sameAs <http://voc.un.org/unms#090_SLB> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f0fa2635c928163085256aa0005fe78f> owl:sameAs <http://voc.un.org/unms#690_SYC> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f1ad7cb40cccbb9485256aa0005fe74e> owl:sameAs <http://voc.un.org/unms#466_MLI> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f21525e37f97703d85256aa0005fe773> owl:sameAs <http://voc.un.org/unms#566_NGA> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f24f51b8fe432e8985256aa0005fe857> owl:sameAs <http://voc.un.org/unms#214_DOM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f2f661528167eb8385256aa0005fe825> owl:sameAs <http://voc.un.org/unms#124_CAN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f60f7ec54e54b67685256aa0005feddc> owl:sameAs <http://voc.un.org/unms#716_ZWE> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f611fa2f348f5e7b85256aa0005fe9bf> owl:sameAs <http://voc.un.org/unms#040_AUT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f6ea3df932afbeb785256aa0005fe95e> owl:sameAs <http://voc.un.org/unms#392_JPN> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/fb67dac15f63cfea85256aa0005feaad> owl:sameAs <http://voc.un.org/unms#400_JOR> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/fbc0e9b852f71c9785256aa0005feab2> owl:sameAs <http://voc.un.org/unms#414_KWT> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/fd9c0933ca4fbe1a85256aa0005fe9b0> owl:sameAs <http://voc.un.org/unms#704_VNM> .
+
+<http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ff5381ffbda403e585256aa0005fe72e> owl:sameAs <http://voc.un.org/unms#404_KEN> .
+
+<http://voc.un.org/unms#004_AFG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1f1b31a1a14fe75085256aa0005fe909> .
+
+<http://voc.un.org/unms#008_ALB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/090fc1f08be361ee85256aa0005fe9b5> .
+
+<http://voc.un.org/unms#012_DZA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b6bb6ebc74f7842f85256aa0005fe699> .
+
+<http://voc.un.org/unms#020_AND> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9f0de15d476c7d2985256aa0005fe9bb> .
+
+<http://voc.un.org/unms#024_AGO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/12ae9744b2ce8c2f85256aa0005fe69e> .
+
+<http://voc.un.org/unms#028_ATG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/6118ccc11a6ceda185256aa0005fe7f6> .
+
+<http://voc.un.org/unms#031_AZE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/374a13a822bd346785256aa00060160c> .
+
+<http://voc.un.org/unms#032_ARG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d949f5dabe962a5f85256aa0005fe7fb> .
+
+<http://voc.un.org/unms#036_AUS> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4fdbbec7e286867e85256aa0005feb13> .
+
+<http://voc.un.org/unms#040_AUT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f611fa2f348f5e7b85256aa0005fe9bf> .
+
+<http://voc.un.org/unms#044_BHS> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e33c539b41ed278585256aa0005fe801> .
+
+<http://voc.un.org/unms#048_BHR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/44c3f7b2160f012f85256aa0005fea9a> .
+
+<http://voc.un.org/unms#050_BGD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2edf8e1cdad3480f85256aa0005fe914> .
+
+<http://voc.un.org/unms#051_ARM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/15d0ec6036773dcd85256aa000601758> .
+
+<http://voc.un.org/unms#052_BRB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/23a96c213ae9a3ad85256aa0005fe806> .
+
+<http://voc.un.org/unms#056_BEL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1c120e8a098ee4ec85256aa0005fe9c4> .
+
+<http://voc.un.org/unms#064_BTN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/78988f25efdd271085256aa0005fe919> .
+
+<http://voc.un.org/unms#068_BOL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/a1c2c22e175ff2aa85256aa0005fe815> .
+
+<http://voc.un.org/unms#070_BIH> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5856b3b1db71997185256aa0006017b5> .
+
+<http://voc.un.org/unms#072_BWA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/6f396963d188110e85256aa0005fe6ac> .
+
+<http://voc.un.org/unms#076_BRA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/198cbc03644bc2eb85256aa0005fe819> .
+
+<http://voc.un.org/unms#084_BLZ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cd1ca627ba54068285256aa0005fe80a> .
+
+<http://voc.un.org/unms#090_SLB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f0b4f2f2500bd0d185256aa0005feb7a> .
+
+<http://voc.un.org/unms#096_BRN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dc2a98da8a5fcdea85256aa0005fe923> .
+
+<http://voc.un.org/unms#100_BGR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/38ed0a71c9a0bbd085256aa0005fe9c9> .
+
+<http://voc.un.org/unms#104_MMR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/31480d048ec26e4a85256aa000600e2b> .
+
+<http://voc.un.org/unms#108_BDI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/257218ebf0e2085185256aa0005fe6b1> .
+
+<http://voc.un.org/unms#112_BLR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b6a246b40ac8926b85256aa0006011e1> .
+
+<http://voc.un.org/unms#116_KHM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/79886c1b08dd401285256aa0005fe92d> .
+
+<http://voc.un.org/unms#120_CMR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/79e19638c22e076985256aa0005fe6b7> .
+
+<http://voc.un.org/unms#124_CAN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f2f661528167eb8385256aa0005fe825> .
+
+<http://voc.un.org/unms#132_CPV> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/78f54c15fd04fba685256aa0005fe6bd> .
+
+<http://voc.un.org/unms#140_CAF> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0913b258e596622385256aa0005fe6ca> .
+
+<http://voc.un.org/unms#144_LKA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/52b28b841067db0e85256aa0005fe9a6> .
+
+<http://voc.un.org/unms#148_TCD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/673aed4963e6667c85256aa0005fe6d0> .
+
+<http://voc.un.org/unms#152_CHL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0e355ef97b821fb785256aa0005fe83e> .
+
+<http://voc.un.org/unms#156_CHN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8626fa6feb76b3ba85256aa0005fe928> .
+
+<http://voc.un.org/unms#170_COL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0e4232594c7e56aa85256aa0005fe843> .
+
+<http://voc.un.org/unms#174_COM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9fa68d80455bda7485256aa0005fe6d5> .
+
+<http://voc.un.org/unms#178_COG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b4f5a7c65b63f8e785256aa0005fe6db> .
+
+<http://voc.un.org/unms#180_COD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d215e851b6b924e985256aa0005fe7e0> .
+
+<http://voc.un.org/unms#188_CRI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c360e074ed6665e685256aa0005fe848> .
+
+<http://voc.un.org/unms#191_HRV> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4b3806bf6387562285256aa0006017c2> .
+
+<http://voc.un.org/unms#192_CUB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/27d0272c07fb5bdc85256aa0005fe84d> .
+
+<http://voc.un.org/unms#196_CYP> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/eb9efd2f4bb3327c85256aa0005fe9cd> .
+
+<http://voc.un.org/unms#203_CZE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dfd17abda887f61985256aa0006017ea> .
+
+<http://voc.un.org/unms#204_BEN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/28b40aaea8a4592a85256aa0005fe6a7> .
+
+<http://voc.un.org/unms#208_DNK> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5eac172255c2e4e085256aa0005fe9db> .
+
+<http://voc.un.org/unms#212_DMA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b99f82018ee0b0ad85256aa0005fe852> .
+
+<http://voc.un.org/unms#214_DOM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f24f51b8fe432e8985256aa0005fe857> .
+
+<http://voc.un.org/unms#218_ECU> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c6802597eb30323b85256aa0005fe85c> .
+
+<http://voc.un.org/unms#222_SLV> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1afe8d9d3850398085256aa0005fe861> .
+
+<http://voc.un.org/unms#226_GNQ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/51bdb638dc9d493a85256aa0005fe6fc> .
+
+<http://voc.un.org/unms#231_ETH> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/95ea662b588e2ef485256aa0005fe701> .
+
+<http://voc.un.org/unms#232_ERI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9ef47944e0d9c76c85256aa00060187f> .
+
+<http://voc.un.org/unms#233_EST> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/a18c3c530d89f29a85256aa00060124b> .
+
+<http://voc.un.org/unms#242_FJI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3cb7e79faa89596185256aa0005feb27> .
+
+<http://voc.un.org/unms#246_FIN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8a6daffd4ad125f985256aa0005fe9f0> .
+
+<http://voc.un.org/unms#250_FRA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/190655c37d8dd5f985256aa0005fe9f5> .
+
+<http://voc.un.org/unms#262_DJI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/052f900699300ba985256aa0005fe6e0> .
+
+<http://voc.un.org/unms#266_GAB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1a10cb00fe73475a85256aa0005fe70e> .
+
+<http://voc.un.org/unms#268_GEO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0403acb12ba763e085256aa0006017c9> .
+
+<http://voc.un.org/unms#270_GMB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e931497767f1f24885256aa0005fe713> .
+
+<http://voc.un.org/unms#276_DEU> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3b665f2e0b704fe985256aa000600f47> .
+
+<http://voc.un.org/unms#288_GHA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/46a7b1b0bd3e75db85256aa0005fe719> .
+
+<http://voc.un.org/unms#296_KIR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/57337145bca12ed685256aa0005feb35> .
+
+<http://voc.un.org/unms#300_GRC> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/62b17c81ec68c8b385256aa0005fea12> .
+
+<http://voc.un.org/unms#308_GRD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3a6bb61945c5a12685256aa0005fe871> .
+
+<http://voc.un.org/unms#320_GTM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b8b29b3236d6327d85256aa0005fe876> .
+
+<http://voc.un.org/unms#324_GIN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/43a0da1369565c5785256aa0005fe71e> .
+
+<http://voc.un.org/unms#328_GUY> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5823d4ad1a48acc885256aa0005fe87b> .
+
+<http://voc.un.org/unms#332_HTI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/88ba94f61d103d8d85256aa0005fe880> .
+
+<http://voc.un.org/unms#340_HND> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3774f61a9ba7f9c285256aa0005fe885> .
+
+<http://voc.un.org/unms#348_HUN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c99b400330203c7785256aa0005fea1d> .
+
+<http://voc.un.org/unms#352_ISL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cd2c0a82607eb8d185256aa0005fea21> .
+
+<http://voc.un.org/unms#356_IND> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/937b5043d2f6e46985256aa0005fe949> .
+
+<http://voc.un.org/unms#360_IDN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c10811f5db46c9fd85256aa0005fe954> .
+
+<http://voc.un.org/unms#364_IRN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/41bd2960e751e14f85256aa0005fe959> .
+
+<http://voc.un.org/unms#368_IRQ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b80eb18936fe36bd85256aa0005feaa8> .
+
+<http://voc.un.org/unms#372_IRL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ee3c2e9ddbe2be6a85256aa0005fea26> .
+
+<http://voc.un.org/unms#376_ISR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9d468362da3551ac85256aa0005fea2b> .
+
+<http://voc.un.org/unms#380_ITA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e82194681bfff2cf85256aa0005fea32> .
+
+<http://voc.un.org/unms#384_CIV> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/17eb25ec6633ef2085256aa0005fe729> .
+
+<http://voc.un.org/unms#388_JAM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/76183debf0517dd785256aa0005fe88a> .
+
+<http://voc.un.org/unms#392_JPN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f6ea3df932afbeb785256aa0005fe95e> .
+
+<http://voc.un.org/unms#398_KAZ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c6735ca81fb4f91f85256aa000601697> .
+
+<http://voc.un.org/unms#400_JOR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/fb67dac15f63cfea85256aa0005feaad> .
+
+<http://voc.un.org/unms#404_KEN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ff5381ffbda403e585256aa0005fe72e> .
+
+<http://voc.un.org/unms#408_PRK> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/aa6a85a664ca4d4a85256aa0005fe934> .
+
+<http://voc.un.org/unms#410_KOR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5651e1a1b6460da885256aa0005fe98a> .
+
+<http://voc.un.org/unms#414_KWT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/fbc0e9b852f71c9785256aa0005feab2> .
+
+<http://voc.un.org/unms#417_KGZ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9fa876cfc81cdf0b85256aa0006016a3> .
+
+<http://voc.un.org/unms#418_LAO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/78bb133c5d34716685256aa0005fe962> .
+
+<http://voc.un.org/unms#422_LBN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/80115f22f0b1e28385256aa0005feace> .
+
+<http://voc.un.org/unms#426_LSO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5ba424117d139fda85256aa0005fe733> .
+
+<http://voc.un.org/unms#428_LVA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8d7423353128368f85256aa0006012e7> .
+
+<http://voc.un.org/unms#430_LBR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1ad38f0fb9a500e185256aa0005fe738> .
+
+<http://voc.un.org/unms#434_LBY> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ef3a9da799292fe485256aa0005fe73e> .
+
+<http://voc.un.org/unms#438_LIE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/541d249e0550bdeb85256aa0005fea37> .
+
+<http://voc.un.org/unms#440_LTU> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5aa958f9cc7ce41685256aa0006012f2> .
+
+<http://voc.un.org/unms#442_LUX> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d1d8475f214b54a785256aa0005fea3b> .
+
+<http://voc.un.org/unms#450_MDG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c8a28c9db99258c385256aa0005fe743> .
+
+<http://voc.un.org/unms#454_MWI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/976059c55f93cf4585256aa0005fe749> .
+
+<http://voc.un.org/unms#458_MYS> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/956d15eeb685d9c185256aa0005fe96d> .
+
+<http://voc.un.org/unms#462_MDV> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cb9f47fda9d4d09985256aa0005fe972> .
+
+<http://voc.un.org/unms#466_MLI> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f1ad7cb40cccbb9485256aa0005fe74e> .
+
+<http://voc.un.org/unms#470_MLT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/92077248b7a87fad85256aa0005fea40> .
+
+<http://voc.un.org/unms#478_MRT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dbf0f20648bd439685256aa0005fe753> .
+
+<http://voc.un.org/unms#480_MUS> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4c055b0f5de9e24985256aa0005fe759> .
+
+<http://voc.un.org/unms#484_MEX> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/68b6004bffcfc48d85256aa0005fe895> .
+
+<http://voc.un.org/unms#492_MCO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/dbd8cc17fbae24c985256aa0005fea44> .
+
+<http://voc.un.org/unms#496_MNG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/00cd632bd5edb0c185256aa0005fe977> .
+
+<http://voc.un.org/unms#498_MDA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8f90e68bc8a270b785256aa0006016f4> .
+
+<http://voc.un.org/unms#499_MNE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/5ca3ef92ec5e85b185257184005ae1cb> .
+
+<http://voc.un.org/unms#504_MAR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/45f95f984044b76985256aa0005fe75e> .
+
+<http://voc.un.org/unms#508_MOZ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/638110fa888187c285256aa0005fe763> .
+
+<http://voc.un.org/unms#512_OMN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/878fc71dd901376585256aa0005fead9> .
+
+<http://voc.un.org/unms#516_NAM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1c3993f19750bb5f85256aa0005fe769> .
+
+<http://voc.un.org/unms#520_NRU> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ac2e5a06e452273085256aa0005feb44> .
+
+<http://voc.un.org/unms#524_NPL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d01bbaaea02832e785256aa0005fe97c> .
+
+<http://voc.un.org/unms#528_NLD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ad0aead36ad7cf2d85256aa0005fea49> .
+
+<http://voc.un.org/unms#548_VUT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cb7fdd731aa1d65385256aa0005fef5b> .
+
+<http://voc.un.org/unms#554_NZL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cb8c2511b2dca98785256aa0005feb4d> .
+
+<http://voc.un.org/unms#558_NIC> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/46c6779d6a70598585256aa0005fe8ad> .
+
+<http://voc.un.org/unms#562_NER> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8a5d048966e4fb0985256aa0005fe76e> .
+
+<http://voc.un.org/unms#566_NGA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f21525e37f97703d85256aa0005fe773> .
+
+<http://voc.un.org/unms#578_NOR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/7b16c8ae5eb3922785256aa0005fea4e> .
+
+<http://voc.un.org/unms#583_FSM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8432e4995f2c964485256aa0005fef54> .
+
+<http://voc.un.org/unms#584_MHL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/537bdcc45862058385256aa0005feb3a> .
+
+<http://voc.un.org/unms#585_PLW> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ac1c69b26b46f51d85256aa0005feb66> .
+
+<http://voc.un.org/unms#586_PAK> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2ca5982fdf05ad9485256aa0005fe981> .
+
+<http://voc.un.org/unms#591_PAN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2daee2fc6940096a85256aa0005fe8b8> .
+
+<http://voc.un.org/unms#598_PNG> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b78773e2d493319285256aa0005feb6b> .
+
+<http://voc.un.org/unms#600_PRY> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/892e32e6f582b4d385256aa0005fe8c2> .
+
+<http://voc.un.org/unms#604_PER> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2bb17c252a5d7a9385256aa0005fe8c7> .
+
+<http://voc.un.org/unms#608_PHL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/330eb1a808cb6d2385256aa0005fe985> .
+
+<http://voc.un.org/unms#616_POL> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/7de08225ca9f5ef985256aa0005fea54> .
+
+<http://voc.un.org/unms#620_PRT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/144dcc22bddf924885256aa0005fea59> .
+
+<http://voc.un.org/unms#626_TLS> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ec7ca76f71b1267285256aa0005fe940> .
+
+<http://voc.un.org/unms#634_QAT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0147e53597d2159c85256aa0005feae3> .
+
+<http://voc.un.org/unms#642_ROU> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d7b5195a382ff96e85256aa0005fea5e> .
+
+<http://voc.un.org/unms#643_RUS> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d608de3dda1f5ccf85256aa0006015b7> .
+
+<http://voc.un.org/unms#646_RWA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cc7536792b7f5d5485256aa0005fe77f> .
+
+<http://voc.un.org/unms#659_KNA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c71453f83d9e86e785256aa0005ffa94> .
+
+<http://voc.un.org/unms#662_LCA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/893c5231c421b1f285256aa0005fe8df> .
+
+<http://voc.un.org/unms#670_VCT> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/c21e392b8e813a9a85256aa0005fe8e4> .
+
+<http://voc.un.org/unms#674_SMR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/d4e0e1dbdbf1680e85256aa0005fea63> .
+
+<http://voc.un.org/unms#678_STP> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8c22906465d6e6c785256aa0005fe784> .
+
+<http://voc.un.org/unms#682_SAU> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/bddab5e259afde8085256aa0005feae8> .
+
+<http://voc.un.org/unms#686_SEN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0b625343d4ce441485256aa0005fe78a> .
+
+<http://voc.un.org/unms#688_SRB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4930c3c972e127598525718f004bb13c> .
+
+<http://voc.un.org/unms#690_SYC> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f0fa2635c928163085256aa0005fe78f> .
+
+<http://voc.un.org/unms#694_SLE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/82d54ed43cecf54285256aa0005fe794> .
+
+<http://voc.un.org/unms#702_SGP> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/31d5e0c8542fa37d85256aa0005fe990> .
+
+<http://voc.un.org/unms#703_SVK> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/a12288f5ea1c019a85256aa0006017df> .
+
+<http://voc.un.org/unms#704_VNM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/fd9c0933ca4fbe1a85256aa0005fe9b0> .
+
+<http://voc.un.org/unms#705_SVN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/24ff43679871432585256aa0006017cf> .
+
+<http://voc.un.org/unms#706_SOM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/3e48e708051d2d5185256aa0005fe79a> .
+
+<http://voc.un.org/unms#710_ZAF> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ddf1a11a7f1a860f85256aa0005fe7a0> .
+
+<http://voc.un.org/unms#716_ZWE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/f60f7ec54e54b67685256aa0005feddc> .
+
+<http://voc.un.org/unms#724_ESP> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cc8192f84241aff985256aa0005fea67> .
+
+<http://voc.un.org/unms#728_SSD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/88a169e81a4d71a785257837004fc0d8> .
+
+<http://voc.un.org/unms#729_SDN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/aef726bbf0eecc2f85256aa0005fe7b1> .
+
+<http://voc.un.org/unms#740_SUR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/800622c4f31a546185256aa0005fe8e9> .
+
+<http://voc.un.org/unms#748_SWZ> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cc3819a7c1be249785256aa0005fe7b7> .
+
+<http://voc.un.org/unms#752_SWE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/4f7136b904d54e6f85256aa0005fea74> .
+
+<http://voc.un.org/unms#756_CHE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/078dfa8856c369df85256aa0005fea79> .
+
+<http://voc.un.org/unms#760_SYR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/53a5020b4122e23c85256aa0005feaed> .
+
+<http://voc.un.org/unms#762_TJK> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/282e00229ee0f6c485256aa00060170d> .
+
+<http://voc.un.org/unms#764_THA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/32bb87d3be8f55eb85256aa0005fe9ab> .
+
+<http://voc.un.org/unms#768_TGO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/0c078a280b6904fb85256aa0005fe7bc> .
+
+<http://voc.un.org/unms#776_TON> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/9ddf5421c996da3a85256aa0005feb83> .
+
+<http://voc.un.org/unms#780_TTO> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/53753038ba2ba6e685256aa0005fe8ee> .
+
+<http://voc.un.org/unms#784_ARE> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cdc910039a2dd12485256aa0005feaf3> .
+
+<http://voc.un.org/unms#788_TUN> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2dd1e6a76f3c476b85256aa0005fe7c1> .
+
+<http://voc.un.org/unms#792_TUR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2126a505e4d3ce4d85256aa0005fea7e> .
+
+<http://voc.un.org/unms#795_TKM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/20565b722f778a7b85256aa000601738> .
+
+<http://voc.un.org/unms#798_TUV> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/aeb1bf40e7a57ff085256aa0005feb87> .
+
+<http://voc.un.org/unms#800_UGA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/66bfbe1d34531f3e85256aa0005fe7c6> .
+
+<http://voc.un.org/unms#804_UKR> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1f8288b1b0c911d485256aa000601396> .
+
+<http://voc.un.org/unms#807_MKD> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1e2c1cce9b2b8f6e85256aa000601aa6> .
+
+<http://voc.un.org/unms#818_EGY> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/cf06f89fb0800dc785256aa0005fe6ef> .
+
+<http://voc.un.org/unms#834_TZA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ddf0e74eee14b53385256aa0005fe7cc> .
+
+<http://voc.un.org/unms#854_BFA> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/b546da1e82f3c72285256aa00060002e> .
+
+<http://voc.un.org/unms#858_URY> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/ddbcc38e50d9df7085256aa0005fe8ff> .
+
+<http://voc.un.org/unms#860_UZB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/1d9ef635abef2d0985256aa000601744> .
+
+<http://voc.un.org/unms#882_WSM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/45f0f27b7bf1768685256aa0005feb75> .
+
+<http://voc.un.org/unms#887_YEM> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/e6cb011ce67b7d4b85256aa0005feafd> .
+
+<http://voc.un.org/unms#894_ZMB> owl:sameAs <http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/34d39dad6e6c67f485256aa0005fe7e7> .
+
+#Excluding {'right': 'http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8d0f3bda2cf2c42f85256aa0005fe723', 'score': 1, 'left': 'http://voc.un.org/unms#624_GNB'} because the score was too low.
+#Excluding {'right': 'http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/8f899906ad5e7aad85256c5d00499970', 'score': 1, 'left': 'http://voc.un.org/unms#854_BFA'} because the score was too low.
+#Excluding {'right': 'http://lib-thesaurus.un.org/LIB/DHLUNBISThesaurus.nsf/fee3fb01c865ac5d85256cf400648b1f/2e65839373fb9ddd85256aa0005fe904', 'score': 1, 'left': 'http://voc.un.org/unms#862_VEN'} because the score was too low.
+#http://voc.un.org/unms#840_USA matched nothing in the target set.
+#http://voc.un.org/unms#826_GBR matched nothing in the target set.
