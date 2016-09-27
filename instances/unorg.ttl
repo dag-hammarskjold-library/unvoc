@@ -23,6 +23,9 @@ unorg:UnitedNations a org:Organization ;
   skos:prefLabel "Nations Unies"@fr ;
   skos:prefLabel "Организация Объединенных Наций"@ru ;
   skos:prefLabel "Naciones Unidas"@es ;
+  # etc
+  org:hasSubOrganization unorg:GeneralAssembly , unorg:SecurityCouncil , unorg:ECOSOC ;
+  org:hasPost unorg:SecretaryGeneral ;
   # Is this the right approach?
   org:hasMember unms:004_AFG ,
                 unms:008_ALB ,
@@ -218,14 +221,20 @@ unorg:UnitedNations a org:Organization ;
                 unms:887_YEM ,
                 unms:894_ZMB .
                 
-unorg:SecurityCouncil a org:Organization .
+unorg:SecurityCouncil a org:Organization ;
   # Things to assert, e.g.: 
   #   unms:840_USA org:hasMembership unorg:M_840_UNSC .
   #   unorg:M_840_UNSC a org:Membership ;
   #     org:organization unorg:SecurityCouncil ;
+  org:subOrganizationOf unorg:UnitedNations .
 
-unorg:GeneralAssembly a org:Organization .
+unorg:GeneralAssembly a org:Organization ;
   # all members of unorg:UnitedNations are members of unorg:GeneralAssembly
   # what do we do with observers?
+  org:subOrganizationOf unorg:UnitedNations .
   
-unorg:ECOSOC a org:Organization .
+unorg:ECOSOC a org:Organization ;
+  org:subOrganizationOf unorg:UnitedNations .
+
+unorg:SecretaryGeneral a org:Post ;
+  org:postIn unorg:UnitedNations .
