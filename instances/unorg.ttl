@@ -13,7 +13,6 @@
 
 ##########
 # unorg is the organizational segment of the UN linked data instance offerings.
-#
 # This file is a prototype and should not be considered authoritative.
 ##########
 
@@ -24,6 +23,7 @@ unorg:UnitedNations a org:Organization ;
   skos:prefLabel "Nations Unies"@fr ;
   skos:prefLabel "Организация Объединенных Наций"@ru ;
   skos:prefLabel "Naciones Unidas"@es ;
+  # Is this the right approach?
   org:hasMember unms:004_AFG ,
                 unms:008_ALB ,
                 unms:012_DZA ,
@@ -226,5 +226,6 @@ unorg:SecurityCouncil a org:Organization .
 
 unorg:GeneralAssembly a org:Organization .
   # all members of unorg:UnitedNations are members of unorg:GeneralAssembly
+  # what do we do with observers?
   
 unorg:ECOSOC a org:Organization .
