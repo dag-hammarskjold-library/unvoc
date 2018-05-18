@@ -7,7 +7,7 @@
 @prefix xl: <http://www.w3.org/2008/05/skos-xl#> .
 @prefix org: <http://www.w3.org/ns/org#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix unvoc: <http://voc.un.org/schema#> .
+@prefix unvoc: <https://metadata.un.org/schema/> .
 
 # Ontology
 
@@ -16,6 +16,9 @@ unvoc: a owl:Ontology ;
   dct:description "An ontology for semantic description of various UN resources."@en ;
   
 # OWL Classes
+
+unvoc:Thesaurus a rdfs:Class, owl:Class ;
+  rdfs:subClassOf skos:ConceptScheme .
 
 unvoc:MemberState a rdfs:Class , owl:Class ;
   rdfs:subClassOf foaf:Agent .
