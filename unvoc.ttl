@@ -1,24 +1,61 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
-@prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xl: <http://www.w3.org/2008/05/skos-xl#> .
 @prefix org: <http://www.w3.org/ns/org#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix unvoc: <https://metadata.un.org/schema/> .
+@prefix unvoc: <http://metadata.un.org/schema/> .
 
-# Ontology
+###############################################################################
+# This is a provisional ontology schema for use in attempting to capture the 
+# UN's various information classification activities. All of the classes and 
+# properties asserted here represent a best effort to rationalize the current
+# and historic practices of the librarians and other information managers of 
+# the United Nations. We make no guarantees about completeness or accuracy.
+###############################################################################
 
+#### Ontology
 unvoc: a owl:Ontology ;
-  dct:title "UN Semantic Ontology"@en ;
-  dct:description "An ontology for semantic description of various UN resources."@en ;
+  dcterms:title "UN Semantic Ontology"@en ;
+  dcterms:description "An ontology for semantic description of various UN resources."@en ;
+  # The version information will change regularly once we move from a provisional status.
+  dcterms:hasVersion "20180601-provisional" .
   
-# OWL Classes
+### OWL Classes
 
-unvoc:Thesaurus a rdfs:Class, owl:Class ;
+## Collective Classes
+
+###############################################################################
+# These are the class definitions for root elements, such as thesauri, member 
+# lists, document collections, etc. Every instance of a class that collects 
+# something should either be defined here or make use of an existing RDF 
+# schema. Note that these can also be collections of collections. Note also 
+# that these aren't strictly necessary, but are practical.
+###############################################################################
+
+unvoc:Thesaurus a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:ConceptScheme .
+
+unvoc:MemberStates a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:ConceptScheme .
+
+unvoc:Bodies a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:ConceptScheme .
+
+unvoc:Documents a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:ConceptScheme .
+
+## Individual Classes
+
+###############################################################################
+# These are class definitions for the kinds of individual resources that make 
+# up the collective classes defined above. For instance, a unvoc:Thesaurus 
+# ultimately contains skos:Concept instances and a unvoc:MemberStates 
+# collection ultimately contains instances of unvoc:MemberState.
+###############################################################################
 
 # This differentiates geographic terms from general subject terms, although a term may be of both classes
 unvoc:GeographicTerm a rdfs:Class , owl:Class ;
@@ -27,3 +64,43 @@ unvoc:GeographicTerm a rdfs:Class , owl:Class ;
 # This differentiates place names from general subject terms, although a term may be of both classes  
 unvoc:PlaceName a rdfs:Class , owl:Class ;
   rdfs:subClassOf skos:Concept .
+
+unvoc:MemberState a rdfs:Class , owl:Class ;
+  rdfs:subClassOf skos:Concept .
+
+unvoc:Document a rdfs:Class , owl:Class ;
+  rdfs:comment "Documents refer to specific outputs produced by the United Nations and its constituent bodies and organs."@en .
+  #rdfs:subClassOf skos:Concept .
+
+unvoc:Membership a rdfs:Class , owl:Class .
+  #rdfs:subClassOf sorg:Event ??
+
+unvoc:Body a rdfs:Class , owl:Class ;
+  rdfs:subClassOf org:Organization .
+
+## DatatypeProperties
+
+unvoc:useStart a rdfs:Property , owl:DatatypeProperty ;
+  rdfs:comment "Begin date for the use of a particular label."@en ;
+  rdfs:domain xl:Label ;
+  rdfs:range xsd:date .
+
+unvoc:useEnd a rdfs:Property , owl:DatatypeProperty ;
+  rdfs:comment "End date for the use of a particular label."@en ;
+  rdfs:domain xl:Label ;
+  rdfs:range xsd:date .
+
+unvoc:membershipYear a rdfs:Property , owl:DatatypeProperty ;
+  rdfs:comment "Date associated with a membership event, such as for ."@en ;
+  rdfs:range dcterms:date .
+
+## ObjectProperties
+
+unvoc:membership a rdfs:Property , owl:ObjectProperty ;
+  rdfs:comment "Denotes a membership event, generally on the part of a Member State, and generally in a UN Body."@en ;
+  rdfs:range unvoc:Membership .
+
+unvoc:referringDocument a rdfs:Property , owl:ObjectProperty ;
+  rdfs:comment "Denotes a document that refers to a particular membership event."@en ;
+  rdfs:domain unvoc:Membership ;
+  rdfs:range unvoc:Document .
